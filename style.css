@@ -95,6 +95,11 @@ button{
     border-radius: 0.5rem;
 }
 
+button:hover{
+    cursor: pointer;
+    background-color: hsl(71, 95%, 49%);
+}
+
 
 /*SECTION3*/
 
